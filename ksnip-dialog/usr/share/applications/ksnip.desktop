@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Exec=QT_QUICK_BACKEND= ksnip
+Icon=ksnip
+Terminal=false
+StartupNotify=false
+Name=Screenshot or edit images
+GenericName=
+Comment=
+Categories=Graphics;
+Name[pt]=Capturar tela ou editar imagens 
+GenericName[pt]=
+Comment[pt]=
+MimeType=image/bmp;image/g3fax;image/gif;image/x-fits;image/x-pcx;image/x-portable-anymap;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-psd;image/x-sgi;image/x-tga;image/x-xbitmap;image/x-xwindowdump;image/tiff;image/jpeg;image/x-psp;application/postscript;image/png;image/x-icon;image/x-xpixmap;image/x-exr;image/x-webp;image/heif;image/heic;image/svg+xml;image/x-wmf;image/jp2;image/x-xcursor;

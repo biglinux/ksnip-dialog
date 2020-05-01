@@ -1,0 +1,38 @@
+#!/bin/bash
+
+#Translation
+export TEXTDOMAINDIR="/usr/share/locale"
+export TEXTDOMAIN=ksnip-dialog
+
+# TITLE=$"Capturar tela"
+# TEXT1=$"Tela inteira"
+# TEXT2=$"Região retangular"
+# TEXT3=$"Janela ativa"
+
+TITLE=$"Screenshot"
+TEXT1=$"Full screen"
+TEXT2=$"Rectangular region"
+TEXT3=$"Active window"
+
+
+yad \
+--window-icon=/usr/share/pixmaps/ksnip.svg \
+--on-top \
+--center \
+--skip-taskbar \
+--borders="30" \
+--title "$TITLE" \
+--form \
+--button="$TEXT1":1 \
+--button="$TEXT2":2 \
+--button="$TEXT3":3 \
+--buttons-layout=end
+            case $? in
+            1)
+            ksnip -f;;
+            2)
+            ksnip -r;;
+            3)
+            ksnip -a;;
+            esac
+exit

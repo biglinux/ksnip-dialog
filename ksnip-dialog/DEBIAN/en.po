@@ -1,0 +1,30 @@
+# Portuguese translations for ksnip-dialog package.
+# Copyright (C) 2020 THE ksnip-dialog'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the ksnip-dialog package.
+# Automatically generated, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ksnip-dialog\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-30 19:41-0300\n"
+"PO-Revision-Date: 2020-04-30 18:43-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Screenshot"
+msgstr ""
+
+msgid "Full screen"
+msgstr ""
+
+msgid "Rectangular region"
+msgstr ""
+
+msgid "Active window"
+msgstr ""

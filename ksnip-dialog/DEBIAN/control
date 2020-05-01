@@ -1,0 +1,10 @@
+Package: ksnip-dialog
+Version: 1.0.0-1big3
+Depends: ksnip, yad
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Section: admin
+Priority: optional
+Installed-Size:52
+Description: Simple dialog to open ksnip
+
