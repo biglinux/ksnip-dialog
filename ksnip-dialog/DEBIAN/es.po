@@ -18,13 +18,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Screenshot"
-msgstr ""
+msgstr "Captura de pantalla"
 
 msgid "Full screen"
-msgstr ""
+msgstr "Pantalla completa"
 
 msgid "Rectangular region"
-msgstr ""
+msgstr "Región rectangular"
 
 msgid "Active window"
-msgstr ""
+msgstr "Ventana activa"
