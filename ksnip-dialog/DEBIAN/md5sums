@@ -5,8 +5,8 @@ a17c6b3a7beb3400275de7b443e460e2  DEBIAN/dpkg-divert
 d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
 752073062e86a26b07cf0f5f56407581  DEBIAN/pt.po
 d925180d05f9eb941b1ee37b418f1d7d  DEBIAN/ksnip-dialog.pot
-143f12f0ebd49876fa1dcb4a182fd531  DEBIAN/control
-6475dfed98cb6a608106c3edfbaf4338  usr/bin/ksnip-dialog
+2f7072600c34d9a8c374597070a46542  DEBIAN/control
+9886dc1aa8fe2f45b66e8057e2aee6b4  usr/bin/ksnip-dialog
 c96a793d1b635c5c90a3678f90b6191a  usr/share/locale/pt/LC_MESSAGES/ksnip-dialog.mo
 95850845222d9170d376564f860c7412  usr/share/locale/es/LC_MESSAGES/ksnip-dialog.mo
 015f35c9b001c8c7ee305231b3ffdcb7  usr/share/locale/en/LC_MESSAGES/ksnip-dialog.mo
